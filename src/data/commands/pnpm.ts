@@ -1,0 +1,20 @@
+export const pnpmCommands = [
+    "pnpm install",
+    "pnpm add package",
+    "pnpm add -D package",
+    "pnpm remove package",
+    "pnpm update",
+    "pnpm outdated",
+    "pnpm list",
+    "pnpm dev",
+    "pnpm build",
+    "pnpm start",
+    "pnpm lint",
+    "pnpm test",
+    "pnpm exec",
+    "pnpm dlx",
+    "pnpm init",
+    "pnpm approve-builds",
+    "pnpm store prune",
+    "pnpm why package"
+]
